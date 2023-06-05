@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Gabriel Weese </b>
 
-<!--
-**gabriel-weese/gabriel-weese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+<p>
+-Dedicated to being a lifelong learner
+<br>
+-About to graduate from the Georgia Institute of Technology
+<br>
+-Currently Reading:The Tatami Galaxy
+<br>
+-Next on personal project to-do list: Learn about markdown to improve the README, and put up the personal site
+<p>
+
+
+### **Personal Projects:**
+<p>
+-- Nothing here yet, personal site coming soon
+<p>
