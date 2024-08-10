@@ -8,15 +8,11 @@
 <p>
 -Dedicated to being a lifelong learner
 <br>
--About to graduate from the Georgia Institute of Technology
+-Graduated 2024 undergrad with a Computer Engineering Degree
 <br>
--Currently Reading:The Tatami Galaxy
+-Currently Reading:
 <br>
--Next on personal project to-do list: Learn about markdown to improve the README, and put up the personal site
+-Next on personal project to-do list: Working on some code contributions for Macon Codes
 <p>
 
 
-### **Personal Projects:**
-<p>
--- Nothing here yet, personal site coming soon
-<p>
