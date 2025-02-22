@@ -10,9 +10,9 @@
 <br>
 -Graduated 2024 undergrad with a Computer Engineering Degree
 <br>
--Currently Reading:
+-Currently Reading: The inner game of tennis
 <br>
--Next on personal project to-do list: Working on some code contributions for Macon Codes
+-Next on personal project to-do list: Getting ready for grad school :)
 <p>
 
 
